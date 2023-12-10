@@ -5,7 +5,7 @@ import Name from './components/name';
 
 const Package = () => (
   <div >
-    <h2>Do cool stuff</h2>
+    <h2>Do cool stuff  Krishnath and see again</h2>
   </div>
 )
 export {Counter};
