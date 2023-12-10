@@ -5,7 +5,7 @@
   "author": "Krishnath",
   "license": "Apache-2.0",
   "repository": "Krishnath12/test-npm-packages",
-  "main": "dist/index.js",
+  "main": "build/index.js",
   "engines": {
     "node": ">=8",
     "npm": ">=5"
