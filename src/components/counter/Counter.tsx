@@ -6,7 +6,7 @@ const Counter=()=>{
    
     return (
        <div>
-           Krishnath See <div>Counter:{count}</div>
+           Krishnath Jadhav See <div>Counter:{count}</div>
            <div><button onClick={()=>{setCount(count+1)}}>Increase Count</button></div>
 
         </div>
